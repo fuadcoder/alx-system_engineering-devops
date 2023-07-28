@@ -6,7 +6,7 @@
 #     3. Displays "manage_my_process started"
 #   When passed the argument `stop`:
 #     1. Stops manage_my_process
-#     2. Deletes the file /var/run/my_process.pid
+#     2. Delete the file /var/run/my_process.pid
 #     3. Displays "manage_my_process stopped"
 #   When passed the argument `restart`:
 #     1. Stops manage_my_process
