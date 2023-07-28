@@ -26,7 +26,7 @@ int infinite_while(void)
 /**
  * main - Creates five zombie processes.
  *
- * Return: Always 0.
+ * Return: Always 0
  */
 int main(void)
 {
