@@ -1,6 +1,6 @@
 ## POSTMORTEM
 
-Start :  ov 6, 2023 6:00 AM, must end by Nov 13, 2023 6:00 AM
+Start :  Nov 6, 2023 6:00 AM, must end by Nov 13, 2023 6:00 AM
 
 IMPACT:
 
